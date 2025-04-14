@@ -11,6 +11,7 @@ mlflow = "^2.21.3"
 scikit-learn = "^1.6.1"
 matplotlib = "^3.10.1"
 evidently = "^0.7.0"
+kaggle = "^1.7.4"
 
 [tool.poetry.dev-dependencies]
 
